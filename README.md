@@ -1,10 +1,10 @@
-## Nama : Muhammad Adam Febrian
+### Nama : Muhammad Adam Febrian
 
-## NIM : 201011401544
+### NIM : 201011401544
 
-## Kelas : 06TPLE005
+### Kelas : 06TPLE005
 
-## UAS Komputer Grafik
+### UAS Komputer Grafik
 
 This is a [Flask](http://flask.pocoo.org/) app for my final exam exercise.
 
