@@ -6,7 +6,6 @@
 
 # UAS Komputer Grafik
 
-## Hasil Tangkapan Layar
 # README
 
 This is a [Flask](http://flask.pocoo.org/) app for my final exam exercise.
@@ -67,6 +66,7 @@ Py Image Cropper is a web application that allows you to upload an image, previe
 
 9. Download the resulting cropped image as a markdown file or an image.
 
+## Hasil Tangkapan Layar
 ### Halaman Unggah Gambar
 ![enter image description here](https://github.com/adam17febrian/uas_komputer_grafik/blob/main/gambar/Halaman%20Utama.png)
 
