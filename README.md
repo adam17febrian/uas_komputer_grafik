@@ -1,16 +1,16 @@
-# Nama : Muhammad Adam Febrian
+## Nama : Muhammad Adam Febrian
 
-# NIM : 201011401544
+## NIM : 201011401544
 
-# Kelas : 06TPLE005
+## Kelas : 06TPLE005
 
-# UAS Komputer Grafik
+## UAS Komputer Grafik
 
 This is a [Flask](http://flask.pocoo.org/) app for my final exam exercise.
 
 Py Image Cropper is a web application that allows you to upload an image, preview it, crop it based on position and size, and download the resulting cropped image. The web app is built using Flask and OpenCV.
 
-## Features
+### Features
 
 - Select an image file from your local device.
 - Preview the selected image before cropping.
@@ -25,13 +25,13 @@ Py Image Cropper is a web application that allows you to upload an image, previe
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/fumui/py-img-cropper.git
+   git clone https://github.com/adam17febrian/uas_komputer_grafik.git
    ```
 
 2. Change to the project directory:
 
    ```bash
-   cd py-img-cropper
+   cd uas_komputer_grafik
    ```
 
 3. Install the dependencies:
